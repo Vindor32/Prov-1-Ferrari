@@ -1,0 +1,91 @@
+/* hela sidan */
+.container {
+    width: 1450px;
+    height: auto;
+    border: red 2px solid;
+    height: 1346px;
+}
+
+.header {
+    height: 100px;
+    width: auto;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+/* första lorem ipsum texten */
+.inledning {
+    height: 100px;
+    width: auto;
+    background-color: black;
+    color: red;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* div för text och bild */
+.ferrari {
+    width: 1450px;
+    height: 400px;
+}
+.ferrari-text {
+    float: left;
+    text-align: center;
+    color: maroon;
+    width: 48%;
+    height: 300px;
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/* bilden */
+.car {
+    float:right;
+    height: 400px;
+    width: 50%;
+}
+
+/* andra lorem ipsum texten */
+.beskrivning {
+    background-color: black;
+    color: brown;
+    width: 1430px;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+    padding-right: 10px;
+}
+
+.formulär-container {
+    width: 1450px;
+    height: 500px;
+    text-align: center;
+    color: red;
+    padding-top: 10px;
+    background-color: white;
+}
+.formulär {
+    color: white;
+    background-color: black;
+    text-align: left;
+    width: 300px;
+    margin: 0 auto;
+    padding-left: 10px;
+    border: red solid 5px;
+}
+
+.footer {
+    color: white;
+    background-color: black;
+    height: 100px;
+    width: auto;
+}
+
+p {
+    font-size: 16px;
+}
+
